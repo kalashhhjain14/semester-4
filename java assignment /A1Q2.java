@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class assignment2
+class A1Q2
 {
     public static void main(String[] args) 
     {
